@@ -47,9 +47,6 @@ b.max-bold{ font-weight: 700; }
 
 
 
-/* ---------------------------------
-2. COMMONS FOR PAGE DESIGN
---------------------------------- */
 
 .section{ padding: 100px 0 50px; border-bottom: 1px solid #ddd; }
 
@@ -73,9 +70,7 @@ b.max-bold{ font-weight: 700; }
 
 
 
-/* ---------------------------------
-3. INTRO SECTION
---------------------------------- */
+
 
 .intro-section{ padding: 50px 0; position: relative; background-size: cover; 
 	z-index: 1;background-image: url(../../images/slider-3-1920x1080.jpg); }
@@ -84,7 +79,7 @@ b.max-bold{ font-weight: 700; }
 	right: 0; background: rgba(0,0,0, .2); }
 
 	
-/* HEADER */
+
 
 .intro-section .heading-wrapper{ border-radius: 5px; padding: 30px 40px 20px; margin-bottom: 50px;
 	background: #FFAD01; color: #fff; }
@@ -96,7 +91,7 @@ b.max-bold{ font-weight: 700; }
 .intro-section .info .right-area{ margin-left: 45px; }
 
 
-/* INTRO */
+
 
 .intro{ color: #fff; }
 
@@ -118,18 +113,13 @@ b.max-bold{ font-weight: 700; }
 
 
 
-/* ---------------------------------
-4. ABOUT SECTION
---------------------------------- */
+
 
 
 
 
 	
 
-/* ---------------------------------
-5. EXPERIENCE SECTION
---------------------------------- */
 
 .experience .list > li{ display: block; position: relative; margin-bottom: 10px; padding-left: 20px; }
 
@@ -140,9 +130,7 @@ b.max-bold{ font-weight: 700; }
 
 
 	
-/* ---------------------------------
-7. EDUCATION SECTION
---------------------------------- */
+
 
 .education-wrapper{ position: relative; }
 
@@ -157,9 +145,7 @@ b.max-bold{ font-weight: 700; }
 	
 	
 	
-/* ---------------------------------
-8. FOOTER
---------------------------------- */
+
 
 .copyright{ text-align: center; padding: 30px 0; background: #28023D; }
 
