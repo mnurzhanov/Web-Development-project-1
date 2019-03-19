@@ -90,7 +90,7 @@ dfn {
 }
 
 mark {
-  background-color: #ff0;
+  background-color: rgb(197, 197, 7);
   color: #000;
 }
 
@@ -307,7 +307,7 @@ template {
   }
   .table td,
   .table th {
-    background-color: #fff !important;
+    background-color: rgb(235, 231, 231) !important;
   }
   .table-bordered th,
   .table-bordered td {
@@ -403,7 +403,7 @@ a {
 }
 
 a:focus, a:hover {
-  color: #014c8c;
+  color: #024783;
   text-decoration: underline;
 }
 
@@ -2453,7 +2453,7 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
 .has-success .col-form-label,
 .has-success .form-check-label,
 .has-success .custom-control {
-  color: #5cb85c;
+  color: #57b457;
 }
 
 .has-success .form-control {
@@ -2829,7 +2829,7 @@ fieldset[disabled] a.btn {
 
 .btn-danger {
   color: #fff;
-  background-color: #d9534f;
+  background-color: #d64e49;
   border-color: #d9534f;
 }
 
